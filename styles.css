@@ -7,4 +7,26 @@
   
 .todo{
     background: #fce4ec;
-  }
+}
+
+.targeta{
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.uno{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dos{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nave{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bus{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.validate{
+    font-family: 'Times New Roman', Times, serif;
+}

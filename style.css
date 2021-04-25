@@ -13,11 +13,18 @@
 .logo{
     font-size: 25px;
     color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 3px;
 }
-.sec{
-    text-align: right;
+.logo1{
+    padding-left: 100rem;
 }
+.tit{
+    text-align: center;
+    font-size: 3rem;
     
+}
 #calculadora { 
     font: bold 14px Arial,sans-serif; 
     background-color: #749fb3;  

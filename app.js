@@ -39,9 +39,9 @@ document.addEventListener("DOMContentLoaded",function(){
   function agregarTexto(nombre,apellido,correo){
     let html = `  
     <div class="col s4 m3">
-      <div class="card blue-grey darken-1">
+      <div class="card black ">
         <div class="card-content white-text">
-          <span class="card-title">Hola ${nombre} ${apellido}</span>
+          <span class="card-title targeta">Hola ${nombre} ${apellido}</span>
           <p>Tu registro fue exitoso con el correo ${correo}</p>
         </div>
       </div>
